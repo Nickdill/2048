@@ -1,8 +1,9 @@
 2048
 ====
 
-tl;dr Run "java game2048.main" in the terminal to play.
+tl;dr Run
 
+    java game2048.Main
 
 Read instuctions.txt for a VERY in-depth instruction on how this program works.
 Otherwise, this was a programming assignment given to me in my Data Structures class. 
