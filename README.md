@@ -1,7 +1,7 @@
 2048
 ====
 
-tl;dr Run
+*tl;dr* Run:
 
     java game2048.Main
 
